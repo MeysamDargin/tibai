@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import logo from "@/public/images/ChatGPT Image Jul 5, 2025, 11_30_41 PM.png";
+import logo from "@/public/images/ChatGPT_Image_Jul_5__2025__11_30_41_PM-removebg-preview.png";
 
 export default function Logo() {
   return (
